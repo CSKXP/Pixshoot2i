@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'jekyll-docs-template'
-subtitle: 'Painless documentation for your projects'
+title: 'Pixshoot2i'
+subtitle: 'Hishoot2i templates by Maicol Villarroel'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
@@ -12,18 +12,15 @@ google_analytics_id: ''
 #   0 - always hide
 #   1 - always show
 #   2 - show only if posts are present
-navigation: 2
+navigation: 0
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/bruth/jekyll-docs-template'
+codeurl: 'http://pixshoot2i.tk/'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    ['doc', 'Start'],
+    ['tut', 'Licenses']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
