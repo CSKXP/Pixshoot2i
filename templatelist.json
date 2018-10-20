@@ -1,52 +1,52 @@
-[
-	{
+{
+	"1": {
 		"name": "Galaxy Note 8 (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/galaxynote8.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/galaxynote8.png?raw=true"
 	},
-	{
+	"2": {
 		"name": "Galaxy Note 8_2 (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/galaxynote8_2.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/galaxynote8_2.png?raw=true"
 	},
-	{
+	"3": {
 		"name": "Galaxy S8 (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/galaxys8.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/galaxys8.png?raw=true"
 	},
-	{
+	"4": {
 		"name": "Google Pixel (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/googlepixel.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/googlepixel.png?raw=true"
 	},
-	{
+	"5": {
 		"name": "Google Pixel_2 (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/googlepixel_2.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/googlepixel_2.png?raw=true"
 	},
-	{
+	"6": {
 		"name": "Google Pixel 2 XL (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/googlepixel2xl.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/googlepixel2xl.png?raw=true"
 	},
-	{
+	"7": {
 		"name": "Google Pixel 2 XL_2 (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/googlepixel2xl_2.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/googlepixel2xl_2.png?raw=true"
 	},
-	{
+	"8": {
 		"name": "Huawei P20 Lite (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/huaweip20lite.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/huaweip20lite.png?raw=true"
 	},
-	{
+	"9": {
 		"name": "Xiaomi Mi A1 (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/xiaomimia1.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/xiaomimia1.png?raw=true"
 	},
-	{
+	"10": {
 		"name": "Xiaomi Mi A1_2 (Maicol Villarroel)",
 		"url": "https://github.com/CSKXP/Pixshoot2i/blob/master/template/xiaomimia1_2.maicolvillarroel.apk?raw=true",
 		"image": "https://github.com/CSKXP/Pixshoot2i/blob/master/preview/xiaomimia1_2.png?raw=true"
 	}
-]
+}
