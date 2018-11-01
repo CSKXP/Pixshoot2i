@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": 1,
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 2,
   "url": "https://github.com/CSKXP/Pixshoot2i/raw/master/Pixshoot2i.apk",
   "releaseNotes": [
-    "- First release"
+     "- Fixed a bug where app wouldn't open (probably on MIUI devices, but it is already fixed xd)"
+     "- Fixed credits section to include the icon designer ;)"
   ]
 }
